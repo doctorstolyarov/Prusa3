@@ -78,7 +78,7 @@ idler_bearing = bearing_608;
 // 50 for wade or single with fan (three holes, 30-20)
 // 80 for full length carriage (four holes, 30-20-30)
 
-carriage_l_base = 80;
+carriage_l_base = 50;
 
 
 // Fillets ********************************************************************
